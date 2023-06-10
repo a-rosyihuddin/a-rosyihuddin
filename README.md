@@ -14,8 +14,14 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 ## Language and Tools
 
-- 💻 Python (TensorFlow, Scikit-learn, Keras)
-- 🌐 PHP (Laravel)
+<div align="center">
+  <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://image.flaticon.com/icons/svg/732/732190.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" />
+  <img src="https://image.flaticon.com/icons/svg/732/732189.svg" alt="Scikit-learn" title="Scikit-learn" width="40" height="40" />
+  <img src="https://image.flaticon.com/icons/svg/919/919852.svg" alt="Keras" title="Keras" width="40" height="40" />
+  <img src="https://image.flaticon.com/icons/svg/919/919830.svg" alt="PHP" title="PHP" width="40" height="40" />
+  <img src="https://image.flaticon.com/icons/svg/230/230509.svg" alt="Laravel" title="Laravel" width="40" height="40" />
+</div>
 
 ## Projects and Contributions
 
@@ -27,12 +33,11 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 ## GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical)
+
 <div align="center">
   <a href="https://github.com/a-rosyihuddin">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical" alt="Ahmad Rosyihuddin's GitHub stats" />
-  </a>
-  <a href="https://github.com/a-rosyihuddin">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -48,8 +53,26 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 I enjoy interacting with the community and connecting with fellow developers. You can find me on:
 
-- 🌐 [Personal Website](#)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-rosyihuddin/)
-- 🐦 [Twitter](https://twitter.com/a_rosyihuddin)
-- 📷 [Instagram](https://www.instagram.com/kaji_sik/)
-- 📧 [Email](mailto:rosyihuddin.dev@gmail.com)
+<div align="center">
+  <a href="#">
+    <img align="center" alt="Website" width="30px" src="https://image.flaticon.com/icons/svg/361/361815.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmad-rosyihuddin/">
+    <img align="center" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
+  </a>
+  <a href="https://twitter.com/a_rosyihuddin">
+    <img align="center" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+  </a>
+  <a href="https://www.instagram.com/kaji_sik/">
+    <img align="center" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+  </a>
+  <a href="mailto:rosyihuddin.dev@gmail.com">
+    <img align="center" alt="Email" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+  </a>
+</div>
+
+Feel free to reach out to me if you have any questions, collaborations, or just want to get in touch. You can contact me via email at rosyihuddin.dev@gmail.com. I'm always excited to collaborate and engage with the developer community.
+
+Thank you for visiting my profile! 👋
+
+---
