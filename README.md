@@ -27,11 +27,9 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 ## GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical)
+
 [![Ahmad Rosyihuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical)](https://github.com/a-rosyihuddin)
-
-- 🔥 Current Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical)
-
-## My Programming Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical)](https://github.com/a-rosyihuddin)
 
