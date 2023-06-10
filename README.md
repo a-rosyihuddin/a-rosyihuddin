@@ -37,13 +37,14 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 <div align="center">
   <a href="https://github.com/a-rosyihuddin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical" alt="Ahmad Rosyihuddin's GitHub stats" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical" alt="GithubStreak" />
   </a>
 </div>
 
-<br/>
-
-<div align="center">
+<div style="display:flex">
+  <a href="https://github.com/a-rosyihuddin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical" alt="Ahmad Rosyihuddin's GitHub stats" />
+  </a>
   <a href="https://github.com/a-rosyihuddin">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical" alt="Top Languages" />
   </a>
