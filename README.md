@@ -1,4 +1,4 @@
-# Hello, I'm Ahmad Rosyihuddin! 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Ahmad Rosyihuddin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Computer Science student focusing on Machine Learning. I have a strong interest in machine learning and web development. I believe that technology has the power to change the world, and I'm excited to contribute to that process.
 
@@ -9,7 +9,6 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 - 💻 I have experience in developing web applications and implementing machine learning.
 - 🌱 I am always learning and expanding my skills in the field of machine learning and related technologies.
 - 💡 I am interested in topics such as data science, natural language processing, and web application development.
-- 📝 I enjoy sharing my knowledge and experiences through writing on my personal blog.
 - 🌍 I'm natively speak Indonesian and fluently speak English.
 
 ## Language and Tools
