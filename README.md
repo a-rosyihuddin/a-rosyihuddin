@@ -33,8 +33,6 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical)
-
 <div align="center">
   <a href="https://github.com/a-rosyihuddin">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical" alt="GithubStreak" />
