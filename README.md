@@ -56,19 +56,19 @@ I enjoy interacting with the community and connecting with fellow developers. Yo
 
 <div align="center">
   <a href="#">
-    <img align="center" alt="Website" width="120px" src="https://img.shields.io/badge/-Website-0088CC?style=flat-square&logo=Google-Chrome&logoColor=white" />
+    <img align="center" alt="Website" width="100px" src="https://img.shields.io/badge/-Website-0088CC?style=flat-square&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad-rosyihuddin/">
-    <img align="center" alt="LinkedIn" width="120px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img align="center" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/a_rosyihuddin">
-    <img align="center" alt="Twitter" width="120px" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img align="center" alt="Twitter" width="100px" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/kaji_sik/">
-    <img align="center" alt="Instagram" width="120px" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img align="center" alt="Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:rosyihuddin.dev@gmail.com">
-    <img align="center" alt="Email" width="120px" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img align="center" alt="Email" width="100px" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
