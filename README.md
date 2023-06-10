@@ -15,12 +15,12 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 ## Language and Tools
 
 <div align="center">
-  <img src="https://image.flaticon.com/icons/svg/1822/1822899.svg" alt="Python" title="Python" width="40" height="40" />
-  <img src="https://image.flaticon.com/icons/svg/732/732190.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" />
-  <img src="https://image.flaticon.com/icons/svg/732/732189.svg" alt="Scikit-learn" title="Scikit-learn" width="40" height="40" />
-  <img src="https://image.flaticon.com/icons/svg/919/919852.svg" alt="Keras" title="Keras" width="40" height="40" />
-  <img src="https://image.flaticon.com/icons/svg/919/919830.svg" alt="PHP" title="PHP" width="40" height="40" />
-  <img src="https://image.flaticon.com/icons/svg/230/230509.svg" alt="Laravel" title="Laravel" width="40" height="40" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" title="Keras" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" title="Laravel" />
 </div>
 
 ## Projects and Contributions
@@ -56,19 +56,19 @@ I enjoy interacting with the community and connecting with fellow developers. Yo
 
 <div align="center">
   <a href="#">
-    <img align="center" alt="Website" width="30px" src="https://image.flaticon.com/icons/svg/361/361815.svg" />
+    <img align="center" alt="Website" width="120px" src="https://img.shields.io/badge/-Website-0088CC?style=flat-square&logo=Google-Chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ahmad-rosyihuddin/">
-    <img align="center" alt="LinkedIn" width="30px" src="https://image.flaticon.com/icons/svg/1384/1384014.svg" />
+    <img align="center" alt="LinkedIn" width="120px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/a_rosyihuddin">
-    <img align="center" alt="Twitter" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />
+    <img align="center" alt="Twitter" width="120px" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/kaji_sik/">
-    <img align="center" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+    <img align="center" alt="Instagram" width="120px" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:rosyihuddin.dev@gmail.com">
-    <img align="center" alt="Email" width="30px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />
+    <img align="center" alt="Email" width="120px" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
