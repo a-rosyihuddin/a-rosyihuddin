@@ -27,7 +27,7 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 ## GitHub Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/a-rosyihuddin">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical" alt="Ahmad Rosyihuddin's GitHub stats" />
   </a>
@@ -38,7 +38,11 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical)](https://github.com/a-rosyihuddin)
+<div align="center">
+  <a href="https://github.com/a-rosyihuddin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
 
 ## Find Me
 
@@ -49,9 +53,3 @@ I enjoy interacting with the community and connecting with fellow developers. Yo
 - 🐦 [Twitter](https://twitter.com/a_rosyihuddin)
 - 📷 [Instagram](https://www.instagram.com/kaji_sik/)
 - 📧 [Email](mailto:rosyihuddin.dev@gmail.com)
-
-Feel free to reach out to me if you have any questions, collaborations, or just want to get in touch. You can contact me via email at rosyihuddin.dev@gmail.com. I'm always excited to collaborate and engage with the developer community.
-
-Thank you for visiting my profile! 👋
-
----
