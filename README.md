@@ -1,16 +1,47 @@
-### Hi there 👋
+# Hello, I'm Ahmad Rosyihuddin! 👋
 
-<!--
-**a-rosyihuddin/a-rosyihuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student focusing on Machine Learning. I have a strong interest in machine learning and web development. I believe that technology has the power to change the world, and I'm excited to contribute to that process.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I am currently a student at Trunojoyo Madura University, majoring in Computer Science.
+- 🎓 I'm also a participant of the Bangkit Batch 1 2023 Machine Learning path in the MSIB program.
+- 💻 I have experience in developing web applications and implementing machine learning.
+- 🌱 I am always learning and expanding my skills in the field of machine learning and related technologies.
+- 💡 I am interested in topics such as data science, natural language processing, and web application development.
+- 📝 I enjoy sharing my knowledge and experiences through writing on my personal blog.
+- 🌍 I'm natively speak Indonesian and fluently speak English.
+
+## Language and Tools
+
+- 💻 Python (TensorFlow, Scikit-learn, Keras)
+- 🌐 PHP (Laravel)
+
+## Projects and Contributions
+
+- 🌟 Some of my notable projects include:
+
+  - [Streamlit Data Mining](https://github.com/a-rosyihuddin/streamlit-datamining): A project that utilizes Streamlit to build interactive data mining and visualization applications.
+  - [Sentimen Analisis MyXL](https://github.com/a-rosyihuddin/sentimen-analisis-Myxl): A project for sentiment analysis of customer reviews related to MyXL service.
+  - [Bangkit Capstone C23](https://github.com/Bangkit-Capstone-C23-PC639): A collaborative project developed as part of the Bangkit Capstone program.
+
+## GitHub Stats
+
+[![Ahmad Rosyihuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical)](https://github.com/a-rosyihuddin)
+
+## Find Me
+
+I enjoy interacting with the community and connecting with fellow developers. You can find me on:
+
+- 🌐 [Personal Website](https://www.example.com)
+- 📝 [Blog](https://blog.example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-name)
+- 🐦 [Twitter](https://twitter.com/your-handle)
+- 📷 [Instagram](https://www.instagram.com/your-handle)
+- 📧 [Email](mailto:rosyihuddin.dev@gmail.com)
+
+Feel free to reach out to me if you have any questions, collaborations, or just want to get in touch. You can contact me via email at rosyihuddin.dev@gmail.com. I'm always excited to collaborate and engage with the developer community.
+
+Thank you for visiting my profile! 👋
+
+---
