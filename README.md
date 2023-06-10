@@ -1,4 +1,4 @@
-# Hello, I'm Ahmad Rosyihuddin! 👋
+# Hello, I'm Ahmad Rosyihuddin! 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a Computer Science student focusing on Machine Learning. I have a strong interest in machine learning and web development. I believe that technology has the power to change the world, and I'm excited to contribute to that process.
 
