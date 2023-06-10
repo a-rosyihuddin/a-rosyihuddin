@@ -46,7 +46,7 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical" alt="Ahmad Rosyihuddin's GitHub stats" width="58%" />
   </a>
   <a href="https://github.com/a-rosyihuddin">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical" alt="Top Languages" width="48%" />
   </a>
 </div>
 
