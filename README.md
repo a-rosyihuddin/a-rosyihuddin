@@ -29,15 +29,20 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 [![Ahmad Rosyihuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical)](https://github.com/a-rosyihuddin)
 
+- 🔥 Current Streak: ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical)
+
+## My Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical)](https://github.com/a-rosyihuddin)
+
 ## Find Me
 
 I enjoy interacting with the community and connecting with fellow developers. You can find me on:
 
-- 🌐 [Personal Website](https://www.example.com)
-- 📝 [Blog](https://blog.example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-name)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📷 [Instagram](https://www.instagram.com/your-handle)
+- 🌐 [Personal Website](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmad-rosyihuddin/)
+- 🐦 [Twitter](https://twitter.com/a_rosyihuddin)
+- 📷 [Instagram](https://www.instagram.com/kaji_sik/)
 - 📧 [Email](mailto:rosyihuddin.dev@gmail.com)
 
 Feel free to reach out to me if you have any questions, collaborations, or just want to get in touch. You can contact me via email at rosyihuddin.dev@gmail.com. I'm always excited to collaborate and engage with the developer community.
@@ -45,3 +50,5 @@ Feel free to reach out to me if you have any questions, collaborations, or just 
 Thank you for visiting my profile! 👋
 
 ---
+
+Make sure to customize the information to reflect your own profile and interests. Happy crafting!
