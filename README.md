@@ -61,7 +61,7 @@ I enjoy interacting with the community and connecting with fellow developers. Yo
     <img align="center" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/a_rosyihuddin">
-    <img align="center" alt="Twitter" width="85px" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img align="center" alt="Twitter" width="90px" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/kaji_sik/">
     <img align="center" alt="Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
