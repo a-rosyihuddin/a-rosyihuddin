@@ -27,9 +27,16 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical)
+<div>
+  <a href="https://github.com/a-rosyihuddin">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical" alt="Ahmad Rosyihuddin's GitHub stats" />
+  </a>
+  <a href="https://github.com/a-rosyihuddin">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 
-[![Ahmad Rosyihuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical)](https://github.com/a-rosyihuddin)
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical)](https://github.com/a-rosyihuddin)
 
@@ -48,5 +55,3 @@ Feel free to reach out to me if you have any questions, collaborations, or just 
 Thank you for visiting my profile! 👋
 
 ---
-
-Make sure to customize the information to reflect your own profile and interests. Happy crafting!
