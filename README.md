@@ -28,7 +28,7 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
   - [Streamlit Data Mining](https://github.com/a-rosyihuddin/streamlit-datamining): A project that utilizes Streamlit to build interactive data mining and visualization applications.
   - [Sentimen Analisis MyXL](https://github.com/a-rosyihuddin/sentimen-analisis-Myxl): A project for sentiment analysis of customer reviews related to MyXL service.
-  - [Bangkit Capstone C23](https://github.com/Bangkit-Capstone-C23-PC639): A collaborative project developed as part of the Bangkit Capstone program.
+  - [Bangkit Capstone C23-PC639](https://github.com/Bangkit-Capstone-C23-PC639): A collaborative project developed as part of the Bangkit Capstone program.
 
 ## GitHub Stats
 
