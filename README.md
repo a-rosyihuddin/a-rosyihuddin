@@ -26,14 +26,14 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 
 - 🌟 Some of my notable projects include:
 
-  - [Streamlit Data Mining](https://github.com/a-rosyihuddin/streamlit-datamining): A project that utilizes Streamlit to build interactive data mining and visualization applications.
-  - [Sentimen Analisis MyXL](https://github.com/a-rosyihuddin/sentimen-analisis-Myxl): A project for sentiment analysis of customer reviews related to MyXL service.
+  - [Streamlit Data Mining](https://github.com/arosyihuddin/streamlit-datamining): A project that utilizes Streamlit to build interactive data mining and visualization applications.
+  - [Sentimen Analisis MyXL](https://github.com/arosyihuddin/sentimen-analisis-Myxl): A project for sentiment analysis of customer reviews related to MyXL service.
   - [Bangkit Capstone C23-PC639](https://github.com/Bangkit-Capstone-C23-PC639): A collaborative project developed as part of the Bangkit Capstone program.
 
 ## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/a-rosyihuddin">
+  <a href="https://github.com/arosyihuddin">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-rosyihuddin&theme=radical" alt="GithubStreak" />
   </a>
 </div>
@@ -41,10 +41,10 @@ I'm a Computer Science student focusing on Machine Learning. I have a strong int
 <br>
 
 <div style="display:flex">
-  <a href="https://github.com/a-rosyihuddin">
+  <a href="https://github.com/arosyihuddin">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-rosyihuddin&show_icons=true&theme=radical" alt="Ahmad Rosyihuddin's GitHub stats" width="56%" />
   </a>
-  <a href="https://github.com/a-rosyihuddin">
+  <a href="https://github.com/arosyihuddin">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rosyihuddin&layout=compact&theme=radical" alt="Top Languages" width="42%" />
   </a>
 </div>
